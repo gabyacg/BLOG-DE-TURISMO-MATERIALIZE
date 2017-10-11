@@ -1,0 +1,101 @@
+body {
+background-image:url("http://www.24morelos.com/wp-content/uploads/2017/07/playas-baratas-mexico.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+.contenedor-general{
+margin-left: 5%;
+margin-right: : 5%;
+width: 90%;
+
+}
+
+.contenedor-principal{
+  height: 530px;
+  background-color: #546e7a;
+  opacity: .75;
+}
+.pc{
+  display:block;
+  margin:auto;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  max-width: 100%;
+
+
+}
+.pc5{
+  display:block;
+  margin:auto;
+  padding-top: 25%;
+  padding-bottom: 10%;
+  max-width: 100%;
+
+}
+.circle {
+  display:block;
+  margin:auto;
+  padding: 1%;
+
+}
+.pc6 {
+  display:block;
+  margin:auto;
+  padding: 1%;
+  max-width: 100%;
+  height:auto;
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-top:  7%;
+  margin-left: 2%;
+  max-width: 100%;
+  height:auto;
+
+}
+.card-content{
+  display:block;
+  margin:auto;
+  height: 320px;
+}
+.contenedor-barra{
+  height: 200px;
+}
+h3{
+  color:#37474f;
+  padding-top: 5%;
+
+}
+textarea{
+  border-radius: 5px 5px 5px 5px;
+}
+
+.social {
+	position:absolute;
+	left: 5%;
+	top: 340px;
+	z-index: 2000;
+}
+	.social ul {
+		list-style: none;
+	}
+
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: black;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease;
+	}
+
+
+	.social ul li a:hover {
+		background: gray;
+		padding: 10px 30px;
+	}
